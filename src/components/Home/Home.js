@@ -25,7 +25,7 @@ const Home = () => {
                 <h3 className=' mt-5 text-center'>Customer Reviews</h3>
                 <div className='reviews d-md-grid mt-5'>
                     {
-                        users3.map(user => <Review user={user}></Review>)
+                        users3.map(user => <Review user={user}  key={user._id}></Review>)
                     }
                 </div>
             </div>

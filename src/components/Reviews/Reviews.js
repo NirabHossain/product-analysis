@@ -10,7 +10,7 @@ const Reviews = () => {
             <h4>All reviews: </h4>
             <div className='reviews d-md-grid'>
                 {
-                    reviews.map(user => <Review user={user}></Review>)
+                    reviews.map(user => <Review user={user} key={user._id}></Review>)
                 }
             </div>
         </div>
