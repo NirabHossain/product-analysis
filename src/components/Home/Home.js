@@ -15,6 +15,7 @@ const Home = () => {
                     <h1>Heavy Metal <span style={{ color: "coral" }}>Store</span></h1>
                     <p className='mt-5'>Get your favorite shirt now. Customize your taste</p>
                     <p><strong>Try free for this month</strong></p>
+                    <button className='more'>Learn More</button>
                 </div>
                 <div className='w-75' >
                     <img src={shirt} width="100%" alt="A t-shirt" />

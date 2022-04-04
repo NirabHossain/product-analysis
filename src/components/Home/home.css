@@ -2,3 +2,14 @@
     text-decoration: none;
     color: white;
 }
+.more{
+    color: wheat;
+    background-color:  rgb(40, 177, 131);
+    border: 0;
+    border-radius: 20px;
+    padding:4px 40px 6px 40px;
+}
+.more:hover{
+    color: white;
+    background-color: rgb(45, 238, 164);
+}

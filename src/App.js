@@ -22,11 +22,6 @@ function App() {
         <Route path='/dashboard' element={<Dashboard/>}></Route>
         <Route path='/blogs' element={<Blogs/>}></Route>
 
-        {/* <Route path='/posts' element={<Posts/>}>
-          <Route path=':postId' element={<PostDetail/>}></Route>
-        </Route> */}
-
-
         <Route path='*' element={<NotFound />} />
       </Routes>
     </div>
