@@ -10,7 +10,3 @@ nav>*>*{
     border: 1px solid greenyellow;
     margin: 10px 2px;
 }
-nav>*>*:hover{
-    background-color: rgb(45, 238, 164);
-    color: azure;
-}
