@@ -3,14 +3,8 @@
 Check the live site here:
 [Heavy Metal Shirt](https://github.com/facebook/create-react-app).
 
-* Bullet list
-* Nested bullet
-* Sub-nested bullet etc
-* Bullet list item 2
+* This project is about making an website of heavy metal t-shirt
+* The review section represents the review of the customers that are buying our products at least for 5 years
+* Check regular sell, investment and revenue also from the Dashboard section
+* For knowing details of our terms and privacy from the about tab
 
--OR-
-
- - Bullet list
-    - Nested bullet
-        - Sub-nested bullet etc
-            - Bullet list item 2
