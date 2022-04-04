@@ -10,7 +10,7 @@ const Home = () => {
     const users3 = reviews.slice(0, 3);
     return (
         <div className=" my-5 container ">
-            <div className='d-flex justify-content-around '>
+            <div className='d-md-flex justify-content-around '>
                 <div>
                     <h1>Heavy Metal <span style={{ color: "coral" }}>Store</span></h1>
                     <p className='mt-5'>Get your favorite shirt now. Customize your taste</p>
